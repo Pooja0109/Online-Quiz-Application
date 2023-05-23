@@ -1,0 +1,86 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+	pageEncoding="ISO-8859-1" import="java.lang.*,java.sql.*"%>
+<%@taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<link rel="stylesheet" href="quizapp.css">
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<title>Insert title here</title>
+</head>
+
+<body>
+<div class="container">
+	<%
+		String sql = "select * from quizData";
+		String url = "jdbc:mysql://localhost:3306/pooja";
+		String username = "root";
+		String password = "BrunoSonuBlacky123";
+
+		try {
+			Class.forName("com.mysql.jdbc.Driver");
+			Connection con = DriverManager.getConnection(url, username, password);
+			PreparedStatement p = con.prepareStatement(sql);
+			ResultSet rs = p.executeQuery();
+	%>
+
+	<h1 align="center">...Quiz Complete...</h1>
+	<%
+		int i = 1, count = 0,flag=1;
+			while (rs.next()) {
+	%>
+	<br /><div class="labelclass">
+	<%
+		out.println(rs.getString(2));
+	%><br /> </div>
+	<div class="items">
+	<%
+	if(flag<5)
+	{
+		%>Correct answer :
+		<%
+		out.println(rs.getString(7));
+		flag++;
+	}
+	String p1 = rs.getString(7);
+	%><br />
+	<%
+		String ans = "ans" + i;
+				i++;
+	%>
+	Your answer :<% 
+		out.println(session.getAttribute(ans));
+				String p2 = (String) session.getAttribute(ans);
+				if (p1.equals(p2)) {
+					count++;
+				}
+				
+	%></div><br />
+	<%
+		}
+	%>
+	int subScore=(int)session.getAttribute("Sscore");
+				System.out.print("Score: "+subScore);
+				count=count+subScore;
+	<div class="score">
+		Your Total Score :<%=count%></div>
+	<%
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+	%>
+
+<!-- <br/><br/><label for="Q3">3. ________ is the process of dividing the disk into tracks and sectors</label><br>
+Your answer :${ans3}
+<br/>
+Correct answer :
+<br/><br/><label for="Q4">4. _____are attempts by individuals to obtain confidential information from you by falsifying their identity</label><br>
+Your answer :${ans4}
+<br/>
+Correct answer :
+<br/><br/><label for="Q5">5. Describe the word 'Mellow' in 5 or more words ?</label><br>
+Your answer :${ans5}
+<br/> -->
+</div>
+</body>
+</html>

@@ -1,0 +1,80 @@
+package com.quiz.app;
+
+import java.io.IOException;
+import java.io.PrintWriter;
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.PreparedStatement;
+import java.sql.ResultSet;
+
+import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+@WebServlet("/RegisterServlet")
+public class RegisterServlet extends HttpServlet {
+	protected void service(HttpServletRequest request, HttpServletResponse response)
+			throws ServletException, IOException {
+		String sql = "select * from quizEntry where phone=?";
+		String url = "jdbc:mysql://localhost:3306/pooja";
+		String username = "root";
+		String password = "BrunoSonuBlacky123";
+		PrintWriter out = response.getWriter();
+		String name = request.getParameter("name");
+		String email = request.getParameter("email");
+		long phone = Long.parseLong(request.getParameter("phone"));
+		String u_name = request.getParameter("u_name");
+		String pass1 = request.getParameter("ppass");
+		String pass2 = request.getParameter("cpass");
+
+
+		//System.out.println("Player name:" + player);
+
+		try {
+			Class.forName("com.mysql.jdbc.Driver");
+			Connection con = DriverManager.getConnection(url, username, password);
+			PreparedStatement p = con.prepareStatement(sql);
+			System.out.println("I was here....1");
+			p.setLong(1,phone);
+			ResultSet rs = p.executeQuery();
+			if (rs.next()) {
+				System.out.println("I was here....2");
+				out.println("<script type=\"text/javascript\">");
+				out.println("alert('Your response is already submitted');");
+				out.println("location='Register.jsp';");
+				out.println("</script>");
+				request.setAttribute(name,name);
+			} 
+			else {
+				if(pass1==pass2)
+				{
+				String ins_sql = "insert into quizEntry(name,email,phone,u_name,password) values(?,?,?,?,?)";
+				PreparedStatement pst = con.prepareStatement(ins_sql);
+				pst.setString(1, name);
+				pst.setString(2, email);
+				pst.setLong(3, phone);
+				pst.setString(4, u_name);
+				pst.setString(5, pass2);
+				pst.executeUpdate();
+				System.out.println("A new author has been inserted");
+				out.println("<script type=\"text/javascript\">");
+				out.println("alert('Sucessfully Registered...All The Best');");
+				out.println("location='quizApp.jsp';");
+				}
+				else
+				{
+					System.out.println("Incorrect password");
+					out.println("<script type=\"text/javascript\">");
+					out.println("alert('Inavlid Password...!');");
+					out.println("location='Register.jsp';");
+					request.setAttribute(name,name);
+				}
+			}
+		} catch (Exception e) {
+			System.out.println(e);
+		}
+	}
+
+}

@@ -1,0 +1,174 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+	pageEncoding="ISO-8859-1" import="java.lang.*,java.sql.*"%>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<title>Quiz App</title>
+<link rel="stylesheet" href="quizapp.css">
+<script type="text/javascript">
+function display()
+{
+	const words=document.getElementById("question5").value;
+	console.log(words);
+	const wordCount = words.split(" ");
+	console.log(wordCount.length);
+	    while(wordCount.length<5)
+		{
+		alert("Please enter more than 5 words in the text area.");
+		document.getElementById("sub").disabled = true;
+		break;
+		}
+	document.getElementById("sub").disabled = false;
+}
+</script>
+<!-- <script>
+	function display() {
+		var flag = 0;
+		var radios1 = document.getElementsByName('question1');
+		for (var i = 0; i < radios1.length; i++) {
+			if (radios1[i].checked) {
+				flag = 1;
+			}
+			else
+			flag=0;
+		}
+		var radios2 = document.getElementsByName('question2');
+		for (var i = 0; i < radios2.length; i++) {
+			if (radios2[i].checked) {
+				flag = 1;
+			}else
+			flag=0;
+		}
+		var radios3 = document.getElementsByName('question3');
+		for (var i = 0; i < radios3.length; i++) {
+			if (radios3[i].checked) {
+				flag = 1;
+			}else
+			flag=0;
+		}
+		var radios4 = document.getElementsByName('question4');
+		for (var i = 0; i < radios4.length; i++) {
+			if (radios4[i].checked) {
+				flag = 1;
+			}
+			else
+			flag=0;
+		}
+		console.log("Flag: "+flag);
+		if (flag==0) {
+			alert("Please check the options for all the question");
+			
+		}
+	}
+</script>   -->
+</head>
+<body>
+	<%-- <%@include file="quizResult.jsp" %> --%>
+	<form action="quizapp" method="post">
+		<h1 align="center">...Quiz Time...</h1>
+
+		<%-- <% 
+String sql="select * from quizData";
+String url="jdbc:mysql://localhost:3306/pooja";
+String username="root";
+String password="BrunoSonuBlacky123";
+
+Class.forName("com.mysql.jdbc.Driver");
+Connection con=DriverManager.getConnection(url,username,password);
+PreparedStatement p=con.prepareStatement(sql);
+ResultSet rs =p.executeQuery(); 
+%>
+	<% while(rs.next()) { %> 
+<br/>
+	<%out.println(rs.getString(2));%><br/>
+	<input type="radio"><%out.println(rs.getString(3));%><br/>
+	<input type="radio"><%out.println(rs.getString(4));%><br/>
+	<input type="radio"><%out.println(rs.getString(5));%><br/>
+	<input type="radio"><%out.println(rs.getString(6));%><br/>
+<br/>
+
+<%} %> --%>
+		<div class="container">
+			<div class="labelclass">
+				<label for="Q1">1. Ctrl, Shift and Alt are called _______
+					keys.</label>
+			</div>
+			<br>
+			<div class="items">
+				<input type="radio" name="question1" value="A) Modifier">A)
+				Modifier<br> <input type="radio" name="question1"
+					value="B) Function">B) Function<br> <input
+					type="radio" name="question1" value="C) Alphanumeric">C)
+				Alphanumeric<br> <input type="radio" name="question1"
+					value="D) Adjustment">D) Adjustment<br>
+				<br>
+			</div>
+
+			<div class="labelclass">
+				<label for="Q2">2. A computer cannot 'boot' if it does not
+					have the _______.</label>
+			</div>
+			<br>
+			<div class="items">
+				<input type="radio" name="question2" value="A) Compiler">A)
+				Compiler<br> <input type="radio" name="question2"
+					value="B) Loader">B) Loader<br> <input type="radio"
+					name="question2" value="C) Operating system">C) Operating
+				system<br> <input type="radio" name="question2"
+					value="D) Assembler">D) Assembler<br>
+				<br>
+			</div>
+
+			<div class="labelclass">
+				<label for="Q3"> 3. ________ is the process of dividing the
+					disk into tracks and sectors.</label>
+			</div>
+			<br>
+			<div class="items">
+				<input type="radio" name="question3" value="A) Tracking">A)
+				Tracking<br> <input type="radio" name="question3"
+					value="B) Formatting">B) Formatting<br> <input
+					type="radio" name="question3" value="C) Crashing">C)
+				Crashing<br> <input type="radio" name="question3"
+					value="D) Allotting">D) Allotting<br>
+				<br>
+			</div>
+
+			<div class="labelclass">
+				<label for="Q4">4. _______ are attempts by individuals to
+					obtain confidential information from you by falsifying their
+					identity.</label>
+			</div>
+			<br>
+			<div class="items">
+				<input type="radio" name="question4" value="A) Phishing trips">A)
+				Phishing trips<br> <input type="radio" name="question4"
+					value="B) Computer viruses">B) Computer viruses<br> <input
+					type="radio" name="question4" value="C) Phishing scams">C)
+				Phishing scams<br> <input type="radio" name="question4"
+					value="D) Spyware scams">D) Spyware scams<br>
+				<br>
+			</div>
+			<div class="labelclass">
+				<label for="Q5">5. Describe the word 'Mellow' in 5 or more
+					words.</label>
+			</div>
+			<br>
+			<div class="items">
+				<textarea name="question5" id="question5" rows="4" cols="50" onchange="display()">
+</textarea>
+			</div>
+			<br />
+			<br />
+		</div>
+		<div class="buttonclass">
+			<input class="buttons" type="submit" id="sub"> 
+			<input class="buttons" type="reset" id="rest">
+		</div>
+	</form>
+<script>
+
+</script>
+</body>
+</html>

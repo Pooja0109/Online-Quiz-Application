@@ -1,0 +1,387 @@
+
+Feb 21, 2023 10:46:52.97 NEW SESSION
+Feb 21, 2023 10:46:52.97 [6448:8076:0221/104652.967:ERROR:device_event_log_impl.cc(218)] [10:46:52.968] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 21, 2023 10:46:52.97 [6448:8076:0221/104652.968:ERROR:device_event_log_impl.cc(218)] [10:46:52.969] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 21, 2023 13:06:43.87 [14164:2152:0221/130643.869:ERROR:device_event_log_impl.cc(218)] [13:06:43.868] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 21, 2023 13:06:43.87 [14164:2152:0221/130643.869:ERROR:device_event_log_impl.cc(218)] [13:06:43.869] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 21, 2023 14:37:17.03 [3292:9812:0221/143717.034:ERROR:device_event_log_impl.cc(218)] [14:37:17.035] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 21, 2023 14:37:17.03 [3292:9812:0221/143717.035:ERROR:device_event_log_impl.cc(218)] [14:37:17.036] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 21, 2023 15:25:17.27 [3008:2472:0221/152517.274:ERROR:device_event_log_impl.cc(218)] [15:25:17.274] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 21, 2023 15:25:17.27 [3008:2472:0221/152517.275:ERROR:device_event_log_impl.cc(218)] [15:25:17.275] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Feb 21, 2023 17:40:54.16 NEW SESSION
+Feb 21, 2023 17:40:54.16 [8620:5404:0221/174054.161:ERROR:device_event_log_impl.cc(218)] [17:40:54.161] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 21, 2023 17:40:54.16 [8620:5404:0221/174054.162:ERROR:device_event_log_impl.cc(218)] [17:40:54.162] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Feb 21, 2023 19:58:09.11 NEW SESSION
+Feb 21, 2023 19:58:09.11 [11948:2000:0221/195809.108:ERROR:device_event_log_impl.cc(218)] [19:58:09.108] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 21, 2023 19:58:09.11 [11948:2000:0221/195809.108:ERROR:device_event_log_impl.cc(218)] [19:58:09.109] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 21, 2023 20:03:48.88 [11324:12056:0221/200348.887:ERROR:device_event_log_impl.cc(218)] [20:03:48.888] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 21, 2023 20:03:48.89 [11324:12056:0221/200348.887:ERROR:device_event_log_impl.cc(218)] [20:03:48.888] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 21, 2023 20:06:41.38 [9456:8608:0221/200641.387:ERROR:device_event_log_impl.cc(218)] [20:06:41.386] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 21, 2023 20:06:41.38 [9456:8608:0221/200641.387:ERROR:device_event_log_impl.cc(218)] [20:06:41.387] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 21, 2023 21:19:30.12 [11616:11592:0221/211930.120:ERROR:device_event_log_impl.cc(218)] [21:19:30.120] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 21, 2023 21:19:30.12 [11616:11592:0221/211930.121:ERROR:device_event_log_impl.cc(218)] [21:19:30.120] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 21, 2023 21:23:23.02 [5840:5364:0221/212323.025:ERROR:device_event_log_impl.cc(218)] [21:23:23.025] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 21, 2023 21:23:23.02 [5840:5364:0221/212323.025:ERROR:device_event_log_impl.cc(218)] [21:23:23.025] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 21, 2023 21:23:48.68 [11948:1940:0221/212348.681:ERROR:device_event_log_impl.cc(218)] [21:23:48.681] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 21, 2023 21:23:48.68 [11948:1940:0221/212348.681:ERROR:device_event_log_impl.cc(218)] [21:23:48.682] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 21, 2023 22:43:22.77 [7228:12744:0221/224322.770:ERROR:device_event_log_impl.cc(218)] [22:43:22.769] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 21, 2023 22:43:22.77 [7228:12744:0221/224322.770:ERROR:device_event_log_impl.cc(218)] [22:43:22.770] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 21, 2023 23:46:22.77 [11532:940:0221/234622.775:ERROR:device_event_log_impl.cc(218)] [23:46:22.775] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 21, 2023 23:46:22.78 [11532:940:0221/234622.777:ERROR:device_event_log_impl.cc(218)] [23:46:22.777] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Feb 22, 2023 10:37:17.79 NEW SESSION
+Feb 22, 2023 10:37:17.79 [1308:6420:0222/103717.795:ERROR:device_event_log_impl.cc(218)] [10:37:17.795] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 22, 2023 10:37:17.80 [1308:6420:0222/103717.795:ERROR:device_event_log_impl.cc(218)] [10:37:17.795] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 22, 2023 10:56:44.47 [7556:6360:0222/105644.479:ERROR:device_event_log_impl.cc(218)] [10:56:44.478] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 22, 2023 10:56:44.48 [7556:6360:0222/105644.479:ERROR:device_event_log_impl.cc(218)] [10:56:44.478] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 22, 2023 11:04:23.30 [1964:8124:0222/110423.302:ERROR:device_event_log_impl.cc(218)] [11:04:23.302] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 22, 2023 11:04:23.30 [1964:8124:0222/110423.302:ERROR:device_event_log_impl.cc(218)] [11:04:23.303] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 22, 2023 11:36:13.33 [12928:11756:0222/113613.338:ERROR:device_event_log_impl.cc(218)] [11:36:13.338] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 22, 2023 11:36:13.34 [12928:11756:0222/113613.338:ERROR:device_event_log_impl.cc(218)] [11:36:13.338] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 22, 2023 12:04:36.82 [7360:10380:0222/120436.828:ERROR:device_event_log_impl.cc(218)] [12:04:36.828] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 22, 2023 12:04:36.83 [7360:10380:0222/120436.828:ERROR:device_event_log_impl.cc(218)] [12:04:36.829] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 22, 2023 12:10:00.91 [8088:11836:0222/121000.911:ERROR:device_event_log_impl.cc(218)] [12:10:00.911] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 22, 2023 12:10:00.91 [8088:11836:0222/121000.912:ERROR:device_event_log_impl.cc(218)] [12:10:00.912] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 22, 2023 12:13:29.10 [12064:11608:0222/121329.100:ERROR:device_event_log_impl.cc(218)] [12:13:29.100] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 22, 2023 12:13:29.10 [12064:11608:0222/121329.100:ERROR:device_event_log_impl.cc(218)] [12:13:29.100] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 22, 2023 12:13:48.09 [8712:6920:0222/121348.089:ERROR:device_event_log_impl.cc(218)] [12:13:48.089] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 22, 2023 12:13:48.09 [8712:6920:0222/121348.089:ERROR:device_event_log_impl.cc(218)] [12:13:48.090] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 22, 2023 12:55:54.37 [428:13160:0222/125554.377:ERROR:device_event_log_impl.cc(218)] [12:55:54.377] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 22, 2023 12:55:54.38 [428:13160:0222/125554.377:ERROR:device_event_log_impl.cc(218)] [12:55:54.378] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 22, 2023 13:00:34.80 [9140:13156:0222/130034.804:ERROR:device_event_log_impl.cc(218)] [13:00:34.804] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 22, 2023 13:00:34.80 [9140:13156:0222/130034.804:ERROR:device_event_log_impl.cc(218)] [13:00:34.805] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 22, 2023 13:02:28.69 [11860:872:0222/130228.691:ERROR:device_event_log_impl.cc(218)] [13:02:28.691] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 22, 2023 13:02:28.69 [11860:872:0222/130228.692:ERROR:device_event_log_impl.cc(218)] [13:02:28.692] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 22, 2023 13:03:50.68 [5248:8904:0222/130350.685:ERROR:device_event_log_impl.cc(218)] [13:03:50.685] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 22, 2023 13:03:50.68 [5248:8904:0222/130350.685:ERROR:device_event_log_impl.cc(218)] [13:03:50.685] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 22, 2023 13:04:49.91 [13284:7976:0222/130449.908:ERROR:device_event_log_impl.cc(218)] [13:04:49.908] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 22, 2023 13:04:49.91 [13284:7976:0222/130449.910:ERROR:device_event_log_impl.cc(218)] [13:04:49.909] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Feb 22, 2023 16:09:35.76 NEW SESSION
+Feb 22, 2023 16:09:35.76 [3144:9484:0222/160935.761:ERROR:device_event_log_impl.cc(218)] [16:09:35.760] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 22, 2023 16:09:35.76 [3144:9484:0222/160935.762:ERROR:device_event_log_impl.cc(218)] [16:09:35.761] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 22, 2023 16:19:30.18 [6524:7308:0222/161930.179:ERROR:device_event_log_impl.cc(218)] [16:19:30.179] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 22, 2023 16:19:30.18 [6524:7308:0222/161930.180:ERROR:device_event_log_impl.cc(218)] [16:19:30.179] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 22, 2023 17:08:42.64 [11760:5220:0222/170842.646:ERROR:device_event_log_impl.cc(218)] [17:08:42.647] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 22, 2023 17:08:42.64 [11760:5220:0222/170842.646:ERROR:device_event_log_impl.cc(218)] [17:08:42.647] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 22, 2023 17:09:59.71 [940:9076:0222/170959.716:ERROR:device_event_log_impl.cc(218)] [17:09:59.716] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 22, 2023 17:09:59.71 [940:9076:0222/170959.716:ERROR:device_event_log_impl.cc(218)] [17:09:59.716] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 22, 2023 17:22:16.26 [6892:10360:0222/172216.262:ERROR:device_event_log_impl.cc(218)] [17:22:16.262] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 22, 2023 17:22:16.26 [6892:10360:0222/172216.262:ERROR:device_event_log_impl.cc(218)] [17:22:16.262] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 22, 2023 17:25:03.66 [9084:4140:0222/172503.662:ERROR:device_event_log_impl.cc(218)] [17:25:03.661] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 22, 2023 17:25:03.66 [9084:4140:0222/172503.662:ERROR:device_event_log_impl.cc(218)] [17:25:03.662] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 22, 2023 17:54:29.98 [8484:7372:0222/175429.988:ERROR:device_event_log_impl.cc(218)] [17:54:29.988] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 22, 2023 17:54:29.99 [8484:7372:0222/175429.989:ERROR:device_event_log_impl.cc(218)] [17:54:29.990] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Feb 23, 2023 10:10:42.75 NEW SESSION
+Feb 23, 2023 10:10:42.75 [7556:8572:0223/101042.755:ERROR:device_event_log_impl.cc(218)] [10:10:42.758] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 23, 2023 10:10:42.75 [7556:8572:0223/101042.755:ERROR:device_event_log_impl.cc(218)] [10:10:42.758] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 23, 2023 10:12:51.57 [0223/101251.571:ERROR:filesystem_win.cc(130)] GetFileAttributes C:\Users\user\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\194da0df-447a-4144-a3e7-18e791a21528: The system cannot find the file specified. (0x2)
+Feb 23, 2023 10:12:51.58 [0223/101251.583:ERROR:filesystem_win.cc(130)] GetFileAttributes C:\Users\user\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\194da0df-447a-4144-a3e7-18e791a21528: The system cannot find the file specified. (0x2)
+Feb 23, 2023 10:13:00.85 [0223/101300.851:ERROR:filesystem_win.cc(130)] GetFileAttributes C:\Users\user\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\194da0df-447a-4144-a3e7-18e791a21528: The system cannot find the file specified. (0x2)
+Feb 23, 2023 10:13:00.85 [0223/101300.856:ERROR:filesystem_win.cc(130)] GetFileAttributes C:\Users\user\AppData\Local\Google\Chrome\User Data\Crashpad\attachments\194da0df-447a-4144-a3e7-18e791a21528: The system cannot find the file specified. (0x2)
+Feb 23, 2023 10:13:19.12 [8984:1324:0223/101319.129:ERROR:device_event_log_impl.cc(218)] [10:13:19.133] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 23, 2023 10:13:19.12 [8984:1324:0223/101319.129:ERROR:device_event_log_impl.cc(218)] [10:13:19.133] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 23, 2023 12:06:33.69 [1508:5900:0223/120633.698:ERROR:device_event_log_impl.cc(218)] [12:06:33.694] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 23, 2023 12:06:33.70 [1508:5900:0223/120633.698:ERROR:device_event_log_impl.cc(218)] [12:06:33.694] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Feb 23, 2023 12:10:43.55 NEW SESSION
+Feb 23, 2023 12:10:43.55 [11100:872:0223/121043.549:ERROR:device_event_log_impl.cc(218)] [12:10:43.543] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 23, 2023 12:10:43.55 [11100:872:0223/121043.549:ERROR:device_event_log_impl.cc(218)] [12:10:43.544] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+
+Feb 27, 2023 10:58:53.44 NEW SESSION
+Feb 27, 2023 10:58:53.44 [9188:884:0227/105853.436:ERROR:device_event_log_impl.cc(218)] [10:58:53.437] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 27, 2023 10:58:53.44 [9188:884:0227/105853.437:ERROR:device_event_log_impl.cc(218)] [10:58:53.437] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Feb 27, 2023 11:12:45.86 [9188:884:0227/111245.867:ERROR:interface_endpoint_client.cc(695)] Message 0 rejected by interface blink.mojom.WidgetHost
+
+Mar 28, 2023 09:53:24.00 NEW SESSION
+Mar 28, 2023 09:53:24.00 [11916:1032:0328/095324.004:ERROR:device_event_log_impl.cc(222)] [09:53:24.003] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 28, 2023 09:53:24.01 [11916:1032:0328/095324.004:ERROR:device_event_log_impl.cc(222)] [09:53:24.004] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 28, 2023 09:53:25.11 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Mar 29, 2023 10:14:31.83 NEW SESSION
+Mar 29, 2023 10:14:31.83 [3372:20548:0329/101431.828:ERROR:device_event_log_impl.cc(222)] [10:14:31.828] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 29, 2023 10:14:31.83 [3372:20548:0329/101431.828:ERROR:device_event_log_impl.cc(222)] [10:14:31.828] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 29, 2023 10:14:33.74 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 29, 2023 10:18:49.76 [16988:18552:0329/101849.766:ERROR:device_event_log_impl.cc(222)] [10:18:49.766] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 29, 2023 10:18:49.77 [16988:18552:0329/101849.769:ERROR:device_event_log_impl.cc(222)] [10:18:49.769] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 29, 2023 10:18:51.20 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Mar 29, 2023 10:32:19.22 NEW SESSION
+Mar 29, 2023 10:32:19.22 [4928:3172:0329/103219.220:ERROR:device_event_log_impl.cc(222)] [10:32:19.221] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 29, 2023 10:32:19.22 [4928:3172:0329/103219.221:ERROR:device_event_log_impl.cc(222)] [10:32:19.221] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 29, 2023 10:32:20.45 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 29, 2023 10:37:03.26 [7556:9676:0329/103703.259:ERROR:device_event_log_impl.cc(222)] [10:37:03.258] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 29, 2023 10:37:03.26 [7556:9676:0329/103703.259:ERROR:device_event_log_impl.cc(222)] [10:37:03.259] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 29, 2023 10:37:04.17 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 29, 2023 10:45:56.72 [5996:7544:0329/104556.723:ERROR:device_event_log_impl.cc(222)] [10:45:56.723] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 29, 2023 10:45:56.72 [5996:7544:0329/104556.723:ERROR:device_event_log_impl.cc(222)] [10:45:56.723] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 29, 2023 10:45:57.55 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 29, 2023 10:46:08.17 [3252:11180:0329/104608.175:ERROR:device_event_log_impl.cc(222)] [10:46:08.175] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 29, 2023 10:46:08.17 [3252:11180:0329/104608.175:ERROR:device_event_log_impl.cc(222)] [10:46:08.175] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 29, 2023 10:46:08.66 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 29, 2023 10:46:49.07 [7504:4700:0329/104649.074:ERROR:device_event_log_impl.cc(222)] [10:46:49.074] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 29, 2023 10:46:49.08 [7504:4700:0329/104649.075:ERROR:device_event_log_impl.cc(222)] [10:46:49.074] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 29, 2023 10:46:49.52 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 29, 2023 11:10:28.60 [4444:12516:0329/111028.603:ERROR:device_event_log_impl.cc(222)] [11:10:28.603] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 29, 2023 11:10:28.60 [4444:12516:0329/111028.603:ERROR:device_event_log_impl.cc(222)] [11:10:28.604] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 29, 2023 11:10:29.42 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Mar 29, 2023 11:18:52.45 NEW SESSION
+Mar 29, 2023 11:18:52.45 [1368:1292:0329/111852.448:ERROR:device_event_log_impl.cc(222)] [11:18:52.448] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 29, 2023 11:18:52.45 [1368:1292:0329/111852.449:ERROR:device_event_log_impl.cc(222)] [11:18:52.449] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 29, 2023 11:18:52.97 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 29, 2023 11:21:40.18 [7700:12164:0329/112140.184:ERROR:device_event_log_impl.cc(222)] [11:21:40.185] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 29, 2023 11:21:40.18 [7700:12164:0329/112140.185:ERROR:device_event_log_impl.cc(222)] [11:21:40.185] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 29, 2023 11:21:40.98 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Mar 30, 2023 15:07:07.26 NEW SESSION
+Mar 30, 2023 15:07:07.26 [11872:10776:0330/150707.265:ERROR:device_event_log_impl.cc(222)] [15:07:07.265] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 30, 2023 15:07:07.27 [11872:10776:0330/150707.265:ERROR:device_event_log_impl.cc(222)] [15:07:07.265] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 30, 2023 15:07:08.82 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Mar 30, 2023 15:39:20.05 NEW SESSION
+Mar 30, 2023 15:39:20.05 [3864:4996:0330/153920.049:ERROR:device_event_log_impl.cc(222)] [15:39:20.049] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 30, 2023 15:39:20.05 [3864:4996:0330/153920.050:ERROR:device_event_log_impl.cc(222)] [15:39:20.050] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 30, 2023 15:39:21.03 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 30, 2023 15:51:05.64 [9072:15932:0330/155105.642:ERROR:device_event_log_impl.cc(222)] [15:51:05.642] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 30, 2023 15:51:05.64 [9072:15932:0330/155105.643:ERROR:device_event_log_impl.cc(222)] [15:51:05.642] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 30, 2023 15:51:06.82 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 30, 2023 15:52:00.72 [12532:10944:0330/155200.720:ERROR:device_event_log_impl.cc(222)] [15:52:00.720] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 30, 2023 15:52:00.72 [12532:10944:0330/155200.721:ERROR:device_event_log_impl.cc(222)] [15:52:00.720] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 30, 2023 15:52:01.05 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Mar 30, 2023 16:07:46.62 NEW SESSION
+Mar 30, 2023 16:07:46.62 [16032:16068:0330/160746.622:ERROR:device_event_log_impl.cc(222)] [16:07:46.622] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 30, 2023 16:07:46.63 [16032:16068:0330/160746.622:ERROR:device_event_log_impl.cc(222)] [16:07:46.622] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 30, 2023 16:07:47.81 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 30, 2023 16:21:50.40 [11648:13048:0330/162150.401:ERROR:device_event_log_impl.cc(222)] [16:21:50.400] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 30, 2023 16:21:50.40 [11648:13048:0330/162150.402:ERROR:device_event_log_impl.cc(222)] [16:21:50.401] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 30, 2023 16:21:51.35 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 30, 2023 16:24:12.56 [8576:11384:0330/162412.561:ERROR:device_event_log_impl.cc(222)] [16:24:12.561] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 30, 2023 16:24:12.56 [8576:11384:0330/162412.562:ERROR:device_event_log_impl.cc(222)] [16:24:12.562] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 30, 2023 16:24:13.43 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 30, 2023 16:26:54.36 [6868:10516:0330/162654.361:ERROR:device_event_log_impl.cc(222)] [16:26:54.361] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 30, 2023 16:26:54.36 [6868:10516:0330/162654.362:ERROR:device_event_log_impl.cc(222)] [16:26:54.362] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 30, 2023 16:26:54.73 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Mar 30, 2023 17:25:26.62 NEW SESSION
+Mar 30, 2023 17:25:26.62 [5872:9228:0330/172526.623:ERROR:device_event_log_impl.cc(222)] [17:25:26.623] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 30, 2023 17:25:26.63 [5872:9228:0330/172526.624:ERROR:device_event_log_impl.cc(222)] [17:25:26.624] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 30, 2023 17:25:28.82 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Mar 31, 2023 10:14:40.10 NEW SESSION
+Mar 31, 2023 10:14:40.10 [10676:11988:0331/101440.104:ERROR:device_event_log_impl.cc(222)] [10:14:40.105] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 31, 2023 10:14:40.11 [10676:11988:0331/101440.105:ERROR:device_event_log_impl.cc(222)] [10:14:40.106] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 31, 2023 10:14:40.95 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 31, 2023 10:17:27.79 ERROR: Client requested cancel during Invoke()
+Mar 31, 2023 10:17:33.75 ERROR: Client requested cancel during Invoke()
+Mar 31, 2023 11:06:33.46 [12412:5636:0331/110633.461:ERROR:device_event_log_impl.cc(222)] [11:06:33.461] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 31, 2023 11:06:33.46 [12412:5636:0331/110633.461:ERROR:device_event_log_impl.cc(222)] [11:06:33.462] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 31, 2023 11:06:34.49 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 31, 2023 11:12:28.69 [7004:816:0331/111228.698:ERROR:device_event_log_impl.cc(222)] [11:12:28.697] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 31, 2023 11:12:28.70 [7004:816:0331/111228.698:ERROR:device_event_log_impl.cc(222)] [11:12:28.698] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 31, 2023 11:12:29.11 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 31, 2023 11:12:48.95 [8540:12188:0331/111248.949:ERROR:device_event_log_impl.cc(222)] [11:12:48.949] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 31, 2023 11:12:48.95 [8540:12188:0331/111248.950:ERROR:device_event_log_impl.cc(222)] [11:12:48.950] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 31, 2023 11:12:49.25 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 31, 2023 11:34:36.36 [12092:6564:0331/113436.365:ERROR:device_event_log_impl.cc(222)] [11:34:36.365] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 31, 2023 11:34:36.37 [12092:6564:0331/113436.366:ERROR:device_event_log_impl.cc(222)] [11:34:36.366] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 31, 2023 11:34:37.08 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 31, 2023 11:35:32.50 [1436:13656:0331/113532.508:ERROR:device_event_log_impl.cc(222)] [11:35:32.509] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 31, 2023 11:35:32.51 [1436:13656:0331/113532.509:ERROR:device_event_log_impl.cc(222)] [11:35:32.509] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 31, 2023 11:35:32.84 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 31, 2023 11:44:04.29 [7816:13840:0331/114404.295:ERROR:device_event_log_impl.cc(222)] [11:44:04.295] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 31, 2023 11:44:04.29 [7816:13840:0331/114404.295:ERROR:device_event_log_impl.cc(222)] [11:44:04.295] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 31, 2023 11:44:04.77 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 31, 2023 11:46:15.42 [10304:13600:0331/114615.424:ERROR:device_event_log_impl.cc(222)] [11:46:15.424] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 31, 2023 11:46:15.42 [10304:13600:0331/114615.424:ERROR:device_event_log_impl.cc(222)] [11:46:15.425] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 31, 2023 11:46:15.80 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 31, 2023 12:04:18.46 [10304:13600:0331/120418.461:ERROR:interface_endpoint_client.cc(695)] Message 5 rejected by interface blink.mojom.WidgetHost
+Mar 31, 2023 12:33:46.09 [13992:456:0331/123346.096:ERROR:device_event_log_impl.cc(222)] [12:33:46.097] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 31, 2023 12:33:46.10 [13992:456:0331/123346.097:ERROR:device_event_log_impl.cc(222)] [12:33:46.098] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 31, 2023 12:33:47.19 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 31, 2023 12:37:28.65 [15624:9840:0331/123728.651:ERROR:device_event_log_impl.cc(222)] [12:37:28.650] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 31, 2023 12:37:28.65 [15624:9840:0331/123728.651:ERROR:device_event_log_impl.cc(222)] [12:37:28.651] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 31, 2023 12:37:29.04 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 31, 2023 12:40:47.89 [6552:10960:0331/124047.896:ERROR:device_event_log_impl.cc(222)] [12:40:47.896] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 31, 2023 12:40:47.89 [6552:10960:0331/124047.896:ERROR:device_event_log_impl.cc(222)] [12:40:47.897] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 31, 2023 12:40:48.40 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 31, 2023 12:41:18.78 [12828:15124:0331/124118.781:ERROR:device_event_log_impl.cc(222)] [12:41:18.780] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 31, 2023 12:41:18.78 [12828:15124:0331/124118.781:ERROR:device_event_log_impl.cc(222)] [12:41:18.781] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 31, 2023 12:41:19.21 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Mar 31, 2023 12:50:27.43 [10344:9400:0331/125027.432:ERROR:device_event_log_impl.cc(222)] [12:50:27.432] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 31, 2023 12:50:27.43 [10344:9400:0331/125027.433:ERROR:device_event_log_impl.cc(222)] [12:50:27.433] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Mar 31, 2023 12:50:29.88 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Apr 01, 2023 15:17:42.09 NEW SESSION
+Apr 01, 2023 15:17:42.09 [1952:6124:0401/151742.091:ERROR:device_event_log_impl.cc(222)] [15:17:42.092] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 01, 2023 15:17:42.10 [1952:6124:0401/151742.094:ERROR:device_event_log_impl.cc(222)] [15:17:42.094] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 01, 2023 15:17:43.35 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 01, 2023 15:22:16.37 [5264:7540:0401/152216.368:ERROR:device_event_log_impl.cc(222)] [15:22:16.368] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 01, 2023 15:22:16.37 [5264:7540:0401/152216.369:ERROR:device_event_log_impl.cc(222)] [15:22:16.369] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 01, 2023 15:22:17.74 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Apr 01, 2023 15:44:24.07 NEW SESSION
+Apr 01, 2023 15:44:24.07 [16024:1508:0401/154424.066:ERROR:device_event_log_impl.cc(222)] [15:44:24.066] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 01, 2023 15:44:24.07 [16024:1508:0401/154424.066:ERROR:device_event_log_impl.cc(222)] [15:44:24.067] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 01, 2023 15:44:25.74 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 01, 2023 16:13:17.11 [libprotobuf ERROR ..\..\third_party\protobuf\src\google\protobuf\message_lite.cc:133] Can't parse message of type "safe_browsing.ClientDownloadRequest" because it is missing required fields: (cannot determine missing fields for lite message)
+Apr 01, 2023 16:43:50.01 [11492:11300:0401/164350.014:ERROR:device_event_log_impl.cc(222)] [16:43:50.014] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 01, 2023 16:43:50.01 [11492:11300:0401/164350.015:ERROR:device_event_log_impl.cc(222)] [16:43:50.015] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 01, 2023 16:43:51.20 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Apr 03, 2023 07:35:53.14 NEW SESSION
+Apr 03, 2023 07:35:53.14 [17328:13884:0403/073553.141:ERROR:device_event_log_impl.cc(222)] [07:35:53.142] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 03, 2023 07:35:53.15 [17328:13884:0403/073553.142:ERROR:device_event_log_impl.cc(222)] [07:35:53.142] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 03, 2023 07:35:55.96 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 03, 2023 07:51:12.49 [7056:10164:0403/075112.495:ERROR:device_event_log_impl.cc(222)] [07:51:12.494] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 03, 2023 07:51:12.49 [7056:10164:0403/075112.495:ERROR:device_event_log_impl.cc(222)] [07:51:12.494] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 03, 2023 07:51:13.92 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Apr 09, 2023 12:08:00.50 NEW SESSION
+Apr 09, 2023 12:08:00.50 [5044:11192:0409/120800.501:ERROR:device_event_log_impl.cc(222)] [12:08:00.501] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 09, 2023 12:08:00.51 [5044:11192:0409/120800.502:ERROR:device_event_log_impl.cc(222)] [12:08:00.502] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 09, 2023 12:08:03.30 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 09, 2023 12:33:05.21 [5044:11192:0409/123305.214:ERROR:CONSOLE(1)] "Uncaught Error: PageHandler_UndoBlocklistPromo_Params missing value for non-nullable field "promoId"", source: chrome://resources/mojo/mojo/public/js/bindings.js (1)
+Apr 09, 2023 12:33:05.55 [5044:11192:0409/123305.549:ERROR:CONSOLE(1)] "Uncaught Error: PageHandler_UndoBlocklistPromo_Params missing value for non-nullable field "promoId"", source: chrome://resources/mojo/mojo/public/js/bindings.js (1)
+Apr 09, 2023 12:52:00.21 [12100:9768:0409/125200.209:ERROR:device_event_log_impl.cc(222)] [12:52:00.205] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 09, 2023 12:52:00.21 [12100:9768:0409/125200.209:ERROR:device_event_log_impl.cc(222)] [12:52:00.205] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 09, 2023 12:52:01.60 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Apr 10, 2023 09:52:09.00 NEW SESSION
+Apr 10, 2023 09:52:09.00 [6580:14036:0410/095208.997:ERROR:device_event_log_impl.cc(222)] [09:52:08.998] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 10, 2023 09:52:09.00 [6580:14036:0410/095208.997:ERROR:device_event_log_impl.cc(222)] [09:52:08.998] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 10, 2023 09:52:35.84 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Apr 12, 2023 07:37:00.78 NEW SESSION
+Apr 12, 2023 07:37:00.78 [13164:4520:0412/073700.775:ERROR:device_event_log_impl.cc(222)] [07:37:00.774] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 12, 2023 07:37:00.78 [13164:4520:0412/073700.776:ERROR:device_event_log_impl.cc(222)] [07:37:00.775] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 12, 2023 07:37:04.55 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 12, 2023 08:09:04.38 [4484:8280:0412/080904.386:ERROR:device_event_log_impl.cc(222)] [08:09:04.385] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 12, 2023 08:09:04.39 [4484:8280:0412/080904.386:ERROR:device_event_log_impl.cc(222)] [08:09:04.386] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 12, 2023 08:09:11.67 Opening in existing browser session.
+Apr 12, 2023 08:09:45.81 [10648:12840:0412/080945.815:ERROR:device_event_log_impl.cc(222)] [08:09:45.815] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 12, 2023 08:09:45.81 [10648:12840:0412/080945.816:ERROR:device_event_log_impl.cc(222)] [08:09:45.816] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 12, 2023 08:09:46.96 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 12, 2023 09:47:48.35 [4004:6664:0412/094748.354:ERROR:device_event_log_impl.cc(222)] [09:47:48.354] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 12, 2023 09:47:48.35 [4004:6664:0412/094748.355:ERROR:device_event_log_impl.cc(222)] [09:47:48.355] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 12, 2023 09:47:52.81 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 12, 2023 10:03:14.63 [10352:10676:0412/100314.632:ERROR:device_event_log_impl.cc(222)] [10:03:14.632] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 12, 2023 10:03:14.63 [10352:10676:0412/100314.632:ERROR:device_event_log_impl.cc(222)] [10:03:14.632] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 12, 2023 10:03:15.97 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 12, 2023 10:07:15.57 [12404:9656:0412/100715.574:ERROR:device_event_log_impl.cc(222)] [10:07:15.575] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 12, 2023 10:07:15.57 [12404:9656:0412/100715.574:ERROR:device_event_log_impl.cc(222)] [10:07:15.575] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 12, 2023 10:07:16.38 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Apr 12, 2023 14:30:24.66 NEW SESSION
+Apr 12, 2023 14:30:24.66 [16796:6624:0412/143024.661:ERROR:device_event_log_impl.cc(222)] [14:30:24.661] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 12, 2023 14:30:24.66 [16796:6624:0412/143024.661:ERROR:device_event_log_impl.cc(222)] [14:30:24.662] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 12, 2023 14:30:26.52 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 12, 2023 14:40:01.19 [7968:968:0412/144001.194:ERROR:device_event_log_impl.cc(222)] [14:40:01.194] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 12, 2023 14:40:01.20 [7968:968:0412/144001.195:ERROR:device_event_log_impl.cc(222)] [14:40:01.195] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 12, 2023 14:40:03.45 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 12, 2023 14:46:15.50 [10200:17140:0412/144615.503:ERROR:device_event_log_impl.cc(222)] [14:46:15.502] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 12, 2023 14:46:15.50 [10200:17140:0412/144615.503:ERROR:device_event_log_impl.cc(222)] [14:46:15.503] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 12, 2023 14:46:16.87 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 12, 2023 14:52:32.81 [15588:15816:0412/145232.815:ERROR:device_event_log_impl.cc(222)] [14:52:32.814] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 12, 2023 14:52:32.81 [15588:15816:0412/145232.815:ERROR:device_event_log_impl.cc(222)] [14:52:32.815] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 12, 2023 14:52:34.09 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 12, 2023 14:54:37.98 [6448:10220:0412/145437.981:ERROR:device_event_log_impl.cc(222)] [14:54:37.981] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 12, 2023 14:54:37.98 [6448:10220:0412/145437.981:ERROR:device_event_log_impl.cc(222)] [14:54:37.981] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 12, 2023 14:54:38.93 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 12, 2023 15:04:51.83 [13464:10204:0412/150451.834:ERROR:device_event_log_impl.cc(222)] [15:04:51.834] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 12, 2023 15:04:51.84 [13464:10204:0412/150451.834:ERROR:device_event_log_impl.cc(222)] [15:04:51.835] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 12, 2023 15:04:52.63 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 12, 2023 15:54:58.42 [1528:14420:0412/155458.425:ERROR:device_event_log_impl.cc(222)] [15:54:58.426] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 12, 2023 15:54:58.42 [1528:14420:0412/155458.425:ERROR:device_event_log_impl.cc(222)] [15:54:58.426] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 12, 2023 15:54:59.54 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 12, 2023 16:03:13.73 [11056:15284:0412/160313.737:ERROR:device_event_log_impl.cc(222)] [16:03:13.737] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 12, 2023 16:03:13.74 [11056:15284:0412/160313.737:ERROR:device_event_log_impl.cc(222)] [16:03:13.737] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 12, 2023 16:03:14.51 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 12, 2023 16:06:23.30 [14344:7320:0412/160623.307:ERROR:device_event_log_impl.cc(222)] [16:06:23.307] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 12, 2023 16:06:23.31 [14344:7320:0412/160623.308:ERROR:device_event_log_impl.cc(222)] [16:06:23.308] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 12, 2023 16:06:24.10 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Apr 13, 2023 07:12:38.56 NEW SESSION
+Apr 13, 2023 07:12:38.56 [14428:11480:0413/071238.555:ERROR:device_event_log_impl.cc(222)] [07:12:38.556] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 13, 2023 07:12:38.56 [14428:11480:0413/071238.559:ERROR:device_event_log_impl.cc(222)] [07:12:38.558] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 13, 2023 07:12:40.16 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 13, 2023 07:15:05.81 [6000:8356:0413/071505.809:ERROR:device_event_log_impl.cc(222)] [07:15:05.809] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 13, 2023 07:15:05.81 [6000:8356:0413/071505.809:ERROR:device_event_log_impl.cc(222)] [07:15:05.809] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 13, 2023 07:15:12.40 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 13, 2023 07:15:50.48 [12588:9072:0413/071550.481:ERROR:device_event_log_impl.cc(222)] [07:15:50.481] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 13, 2023 07:15:50.48 [12588:9072:0413/071550.481:ERROR:device_event_log_impl.cc(222)] [07:15:50.482] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 13, 2023 07:15:54.80 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Apr 14, 2023 01:44:26.28 NEW SESSION
+Apr 14, 2023 01:44:26.29 [8160:14260:0414/014426.283:ERROR:device_event_log_impl.cc(222)] [01:44:26.283] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 14, 2023 01:44:26.29 [8160:14260:0414/014426.283:ERROR:device_event_log_impl.cc(222)] [01:44:26.283] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 14, 2023 01:44:36.36 [3568:1548:0414/014436.363:ERROR:device_event_log_impl.cc(222)] [01:44:36.363] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 14, 2023 01:44:36.36 [3568:1548:0414/014436.363:ERROR:device_event_log_impl.cc(222)] [01:44:36.363] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 14, 2023 01:44:37.76 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Apr 14, 2023 11:08:35.50 NEW SESSION
+Apr 14, 2023 11:08:35.50 [12880:9656:0414/110835.500:ERROR:device_event_log_impl.cc(222)] [11:08:35.500] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 14, 2023 11:08:35.51 [12880:9656:0414/110835.500:ERROR:device_event_log_impl.cc(222)] [11:08:35.500] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 14, 2023 11:08:37.77 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 14, 2023 11:51:31.60 [15332:10108:0414/115131.602:ERROR:device_event_log_impl.cc(222)] [11:51:31.602] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 14, 2023 11:51:31.60 [15332:10108:0414/115131.603:ERROR:device_event_log_impl.cc(222)] [11:51:31.603] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 14, 2023 11:51:33.66 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Apr 14, 2023 12:08:17.96 NEW SESSION
+Apr 14, 2023 12:08:17.96 [12828:8916:0414/120817.963:ERROR:device_event_log_impl.cc(222)] [12:08:17.963] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 14, 2023 12:08:17.97 [12828:8916:0414/120817.964:ERROR:device_event_log_impl.cc(222)] [12:08:17.964] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 14, 2023 12:08:18.48 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 14, 2023 12:31:43.65 [8412:7716:0414/123143.649:ERROR:device_event_log_impl.cc(222)] [12:31:43.649] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 14, 2023 12:31:43.65 [8412:7716:0414/123143.650:ERROR:device_event_log_impl.cc(222)] [12:31:43.649] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 14, 2023 12:31:47.28 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 14, 2023 12:59:59.16 [916:15348:0414/125959.162:ERROR:device_event_log_impl.cc(222)] [12:59:59.162] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 14, 2023 12:59:59.16 [916:15348:0414/125959.162:ERROR:device_event_log_impl.cc(222)] [12:59:59.163] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 14, 2023 13:00:00.67 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 14, 2023 13:12:00.81 [1812:4232:0414/131200.816:ERROR:device_event_log_impl.cc(222)] [13:12:00.816] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 14, 2023 13:12:00.81 [1812:4232:0414/131200.817:ERROR:device_event_log_impl.cc(222)] [13:12:00.816] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 14, 2023 13:12:01.62 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Apr 14, 2023 19:33:16.14 NEW SESSION
+Apr 14, 2023 19:33:16.14 [13404:9592:0414/193316.136:ERROR:device_event_log_impl.cc(222)] [19:33:16.134] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 14, 2023 19:33:16.14 [13404:9592:0414/193316.136:ERROR:device_event_log_impl.cc(222)] [19:33:16.135] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 14, 2023 19:33:18.18 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 14, 2023 19:37:18.48 [6344:10476:0414/193718.479:ERROR:device_event_log_impl.cc(222)] [19:37:18.479] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 14, 2023 19:37:18.48 [6344:10476:0414/193718.480:ERROR:device_event_log_impl.cc(222)] [19:37:18.480] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 14, 2023 19:37:20.94 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 14, 2023 19:46:57.09 [5336:1568:0414/194657.092:ERROR:device_event_log_impl.cc(222)] [19:46:57.092] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 14, 2023 19:46:57.09 [5336:1568:0414/194657.092:ERROR:device_event_log_impl.cc(222)] [19:46:57.093] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 14, 2023 19:46:58.57 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 14, 2023 20:01:20.48 [5772:5660:0414/200120.479:ERROR:device_event_log_impl.cc(222)] [20:01:20.478] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 14, 2023 20:01:20.48 [5772:5660:0414/200120.479:ERROR:device_event_log_impl.cc(222)] [20:01:20.479] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 14, 2023 20:01:21.61 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 14, 2023 20:17:35.59 [2864:2500:0414/201735.592:ERROR:device_event_log_impl.cc(222)] [20:17:35.593] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 14, 2023 20:17:35.59 [2864:2500:0414/201735.593:ERROR:device_event_log_impl.cc(222)] [20:17:35.593] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 14, 2023 20:17:37.19 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Apr 14, 2023 22:30:43.26 NEW SESSION
+Apr 14, 2023 22:30:43.26 [4644:12120:0414/223043.262:ERROR:device_event_log_impl.cc(222)] [22:30:43.262] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 14, 2023 22:30:43.26 [4644:12120:0414/223043.262:ERROR:device_event_log_impl.cc(222)] [22:30:43.263] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 14, 2023 22:30:46.08 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Apr 14, 2023 22:57:36.45 NEW SESSION
+Apr 14, 2023 22:57:36.45 [13348:13356:0414/225736.451:ERROR:device_event_log_impl.cc(222)] [22:57:36.447] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 14, 2023 22:57:36.45 [13348:13356:0414/225736.452:ERROR:device_event_log_impl.cc(222)] [22:57:36.448] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 14, 2023 22:57:38.49 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 14, 2023 23:15:38.53 [14132:8064:0414/231538.531:ERROR:device_event_log_impl.cc(222)] [23:15:38.531] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 14, 2023 23:15:38.53 [14132:8064:0414/231538.532:ERROR:device_event_log_impl.cc(222)] [23:15:38.532] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 14, 2023 23:15:40.47 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 14, 2023 23:15:56.02 [9680:9704:0414/231556.026:ERROR:device_event_log_impl.cc(222)] [23:15:56.026] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 14, 2023 23:15:56.03 [9680:9704:0414/231556.028:ERROR:device_event_log_impl.cc(222)] [23:15:56.028] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 14, 2023 23:15:57.21 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+Apr 14, 2023 23:24:36.45 [14872:14876:0414/232436.450:ERROR:device_event_log_impl.cc(222)] [23:24:36.450] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 14, 2023 23:24:36.45 [14872:14876:0414/232436.451:ERROR:device_event_log_impl.cc(222)] [23:24:36.450] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 14, 2023 23:24:40.11 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+Apr 16, 2023 24:16:20.67 NEW SESSION
+Apr 16, 2023 24:16:20.67 [11828:356:0416/001620.669:ERROR:device_event_log_impl.cc(222)] [00:16:20.667] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 16, 2023 24:16:20.67 [11828:356:0416/001620.669:ERROR:device_event_log_impl.cc(222)] [00:16:20.668] USB: usb_device_handle_win.cc:1046 Failed to read descriptor from node connection: A device attached to the system is not functioning. (0x1F)
+Apr 16, 2023 24:16:21.96 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.

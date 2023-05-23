@@ -1,0 +1,6 @@
+127.0.0.1 - - [10/Apr/2023:09:51:36 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [10/Apr/2023:09:52:04 +0530] "GET /QuizApplication/quizApp.jsp HTTP/1.1" 200 3568
+0:0:0:0:0:0:0:1 - - [10/Apr/2023:09:52:06 +0530] "GET /QuizApplication/quizapp.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [10/Apr/2023:09:52:06 +0530] "GET /QuizApplication/Reg.js HTTP/1.1" 200 1474
+0:0:0:0:0:0:0:1 - - [10/Apr/2023:09:52:07 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [10/Apr/2023:09:53:02 +0530] "GET /QuizApplication/quizApp.jsp HTTP/1.1" 200 3568

@@ -1,0 +1,6 @@
+@charset "ISO-8859-1";
+.register
+{
+	width:600px;
+	border:2px solid red;
+}
